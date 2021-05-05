@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*- 
 
 #1번
 m = int(input("얼마 있어요?"))
@@ -75,3 +74,4 @@ class Worker(Person):
              print("나는 일하는 중, 내 멘탈지수 : {0}".format(self.mental))
         else:
             print("더는 일 못해")
+11
